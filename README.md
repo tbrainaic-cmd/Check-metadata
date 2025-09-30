@@ -14,6 +14,7 @@ The notebook is designed to check whether a **text snippet** appears inside an *
 ### 1. Preparing
 - `file_id`: The Google Sheet ID containing the text snippets you want to check. 
 - `zip_path`: A ZIP archive containing all the documents you want to search through.
+- `API-key`: GPT and Claude API
 
 ```python
 file_id = "1paO76gmkgoJRor986J0MB9Ntt40D-7nYcHkMhvVXk-Q"
